@@ -1,0 +1,26 @@
+.value {
+  font-size: 92px;
+  font-weight: 900;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-top: 2px;
+  color: rgb(92, 19, 236);
+  font-family: "Courier New", Courier, monospace;
+}
+
+.button {
+  border: none;
+  background: none;
+  font-size: 18px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 5px;
+  outline: none;
+  border: 2px solid transparent;
+  color: rgb(92, 19, 236);
+  padding-bottom: 4px;
+  cursor: pointer;
+  background-color: rgba(92, 19, 236, 0.1);
+  border-radius: 2px;
+  transition: all 0.15s;
+}
